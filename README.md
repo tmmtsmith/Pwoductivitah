@@ -18,10 +18,9 @@ Note that the beeping only lasts 800 milliseconds and beeps at a hertz of 1000.
 **Program Termination**
 
 `Console.WriteLine("Do you want to exit (Press Y or N)?");
-                string rep = Console.ReadLine();
-
-                if (rep.ToLower() == "y")
-                {
-                    a = 2;
-                }`
+string rep = Console.ReadLine();
+if (rep.ToLower() == "y")
+{
+     a = 2;
+}`
 
