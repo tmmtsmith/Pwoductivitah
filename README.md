@@ -25,7 +25,7 @@ if (rep.ToLower() == "y")```
 
 ###Performance
 
-**Windows 7:** `1.4 MB Memory`
+**Windows 7:** `1.4 MB Memory`<br/>
 **Windows 8:** `1.2 MB Memory`
 
 ###Test
