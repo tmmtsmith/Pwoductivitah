@@ -1,7 +1,7 @@
 Pwoductivitah
 =============
 
-Extremely simple console timer for productivity sprints.  The file to edit is **Program.cs** and below are some options, depending on how sprints are to be adjusted.
+Extremely simple console timer for productivity sprints.  The file to edit is `Program.cs` and below are some options, depending on how sprints are to be adjusted.
 
 **Timer**
 
