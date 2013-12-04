@@ -20,6 +20,8 @@ Note that the beeping only lasts 800 milliseconds and beeps at a hertz of 1000.
 The program will loop until a user selects Y or y.  To stop this remove the below code and keep only `a = 2`:
 
 `Console.WriteLine("Do you want to exit (Press Y or N)?");`
+
 `string rep = Console.ReadLine();`
+
 `if (rep.ToLower() == "y")`
 
