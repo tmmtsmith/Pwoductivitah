@@ -1,0 +1,5 @@
+C:\Users\Timothy Smith\Documents\GitHub\Pwoductivitah\Pwoductivitah\Pwoductivitah\bin\Debug\Pwoductivitah.exe
+C:\Users\Timothy Smith\Documents\GitHub\Pwoductivitah\Pwoductivitah\Pwoductivitah\bin\Debug\Pwoductivitah.pdb
+C:\Users\Timothy Smith\Documents\GitHub\Pwoductivitah\Pwoductivitah\Pwoductivitah\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Timothy Smith\Documents\GitHub\Pwoductivitah\Pwoductivitah\Pwoductivitah\obj\x86\Debug\Pwoductivitah.exe
+C:\Users\Timothy Smith\Documents\GitHub\Pwoductivitah\Pwoductivitah\Pwoductivitah\obj\x86\Debug\Pwoductivitah.pdb
